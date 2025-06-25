@@ -1,16 +1,53 @@
-# bmi_calculator
+# ⚖️ BMI Calculator - Flutter App
 
-A new Flutter project.
+A clean and interactive Body Mass Index calculator built with Flutter, created as part of a Flutter development course.
 
-## Getting Started
+## 📚 About the Project
 
-This project is a starting point for a Flutter application.
+**BMI Calculator** is a health and fitness mobile app that allows users to input their gender, height, weight, and age, and receive their Body Mass Index result along with an interpretation.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Course Objective
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project focuses on building a **multi-screen UI** with custom widgets, reusable components, and user interaction.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 What I Learned
+
+By creating this app, I learned:
+
+- 🧱 How to create and use **custom reusable widgets**
+- 🧭 How to navigate between **multiple screens** using Flutter Routes and Navigator
+- 🎯 How to use **GestureDetector** to capture user taps
+- 🎨 How to design UI using **Slider**, **Cards**, and **Icons**
+- 🔲 How to use **ThemeData** to apply consistent styling across the app
+- 🧩 How to **extract and refactor widgets** with just a click
+- 🧬 The difference between **composition vs. inheritance** in Flutter and how to create UI the Flutter way
+- 🌈 How to use **custom color palettes** with hex codes
+- 📐 Understanding **Dart Enums** and the **Ternary Operator**
+- 🔒 The difference between **const** and **final** in Dart and when to use each
+
+---
+
+## 🖼️ App Preview
+
+*Home screen*
+
+<img src="documentation/screenshots/home_screen.jpg" width="200" />
+
+*Result screen*
+
+<img src="documentation/screenshots/result_screen.jpg" width="200" />
+
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+
+---
+
+## 📦 Packages
+
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) – Used to add stylish icons throughout the app.
+
+---
