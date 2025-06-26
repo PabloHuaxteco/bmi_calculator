@@ -28,14 +28,13 @@ By creating this app, I learned:
 ---
 
 ## 🖼️ App Preview
-
-*Home screen*
-
-<img src="documentation/screenshots/home_screen.jpg" width="200" />
-
-*Result screen*
-
-<img src="documentation/screenshots/result_screen.jpg" width="200" />
+<table>
+  <tr>
+    <td align="center"><strong>Demo</strong><br><img src="documentation/gifs/demo.gif" width="250"/></td>
+    <td align="center"><strong>Home screen</strong><br><img src="documentation/screenshots/home_screen.jpg" width="250"/></td>
+    <td align="center"><strong>Result screen</strong><br><img src="documentation/screenshots/result_screen.jpg" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
